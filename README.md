@@ -45,3 +45,7 @@ Als nächstes empfehlen wir den Kurs PowerShell - Fortgeschrittene Administratio
 - Sortieren 
 - Messen
 - Selektieren
+- Konvertieren / Importieren / Exportieren
+- Filtern
+- Aufzählen
+- Schleifen
