@@ -49,3 +49,9 @@ Als nächstes empfehlen wir den Kurs PowerShell - Fortgeschrittene Administratio
 - Filtern
 - Aufzählen
 - Schleifen
+- Verzweigung
+- Pipeline2
+- Variablen2
+- Skriptsicherheit
+- Scripting
+    - Parameter
